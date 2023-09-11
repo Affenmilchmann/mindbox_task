@@ -1,0 +1,1 @@
+from ._shapes import Triangle, Circle, Shape
